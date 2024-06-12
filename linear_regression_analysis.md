@@ -40,12 +40,13 @@ note: this graph is not accurate and is only used for showcasing example.
 #### Components of the Linear Equation:
 
 ```math
-The linear equation used in simple linear regression is: [ y = b_0 + b_1x ]
+The linear equation used in simple linear regression is:
+$$ y = b_0 + b_1x $$
 
-- ( y ): Dependent variable (what you are trying to predict, e.g., price of candy)
-- ( x ): Independent variable (the variable you use to make predictions, e.g., number of candies)
-- ( b_0 ): y-intercept of the line (the value of ( y ) when ( x ) is 0)
-- ( b_1 ): Slope of the line (how much ( y ) changes for a one-unit change in ( x ))
+- \( y \): Dependent variable (what you are trying to predict, e.g., price of candy)
+- \( x \): Independent variable (the variable you use to make predictions, e.g., number of candies)
+- \( b_0 \): y-intercept of the line (the value of \( y \) when \( x \) is 0)
+- \( b_1 \): Slope of the line (how much \( y \) changes for a one-unit change in \( x \))
 ```
 
 #### Calculating the Slope (( b_1 )):
