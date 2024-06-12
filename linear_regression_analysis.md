@@ -90,7 +90,7 @@ here,
 $$ y = 25, x = 10, b_1 = 2.5 $$
 
 $$
-\text{Using Point 1 (10, 25): } 25 = b_0 + 2.5 \times 10 \\ b_0 = 25 - 25 \\= 0
+\text{Using Point 1 (10, 25): } 25 = b_0 + 2.5 \times 10 \Rightarrow b_0 = 25 - 25 = 0
 $$
 
 ### Using the equation for Prediction:
