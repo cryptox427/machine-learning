@@ -98,6 +98,7 @@ $$
 Now that we have both \( b_0 \) and \( b_1 \), we can use the equation to predict \( y \) (price of the candy) for any \( x \) (number of candies):
 
 $$ \text{here, } b_0 = 0, b_1 = 2.5, x = 47 $$
+
 $$ y = 0 + 2.5 \times 47 = 117.5 $$
 
 This predicts that the price for 47 candies is 117.5.
